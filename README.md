@@ -3,7 +3,7 @@
 
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Denivaldo;,:,+,Analise e+Desenvolvimento+de+Sistemas;Desenvolvedor+brasileiro;+:);+%3C3;" alt="Meu nome é , Estudante de Analise e Desenvolvimento de Sistemas"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Denivaldo;Desenvolvedor+brasileiro;+:);" alt="Meu nome é , Estudante de Analise e Desenvolvimento de Sistemas"></a>
 
 </div>
 
