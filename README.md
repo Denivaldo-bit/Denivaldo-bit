@@ -27,7 +27,7 @@
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 
 
-<h2>:hammer_and_wrench: Ferramentas que eu uso nodia a dia</h2>
+<h2>:hammer_and_wrench: Ferramentas que eu uso no dia a dia</h2>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
 <code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
