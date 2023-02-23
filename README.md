@@ -40,9 +40,7 @@
 
 <img alt="animação da cobrinha nas contribuições do GitHub" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
-<h2>:book: Livro de Visitas</h2>
-<p>Deixe uma mensagem legal para mim, ou simplesmente diga que passou por aqui <a href="https://github.com/Carol42/Carol42/issues/new?template=assinar-o-livro-de-visitas.md">neste link</a>!</p>
-<p>Ou me pergunte alguma coisa nas <a href="https://github.com/Carol42/Carol42/discussions/new/choose">Discussões</a>!</p>
+
 
 <div align="center">
     <a href="https://git.io/typing-svg">
