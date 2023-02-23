@@ -10,13 +10,12 @@
 
 
 
-
-<a href="[https://linkedin.com/in/denivaldo-bit](https://www.linkedin.com/in/denivaldo-ferreira-de-vasconcelos-27b1b21b8/)">
- <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/denivaldo-bit&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+<a href="https://linkedin.com/in/denivaldo-ferreira-de-vasconcelos">
+    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/Linkedn&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:denislive09@hotmail.com">
-    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=denislive09@hotmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=E-mail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
