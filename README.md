@@ -2,9 +2,14 @@
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 
+
+
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Denivaldo;Desenvolvedor+brasileiro;+:);" alt="Meu nome é , Estudante de Analise e Desenvolvimento de Sistemas"></a>
 
+    
+    
+    
 </div>
 
 
@@ -20,11 +25,21 @@
 </a>
 <a href="mailto:denislive09@hotmail.com">
     <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=E-mail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+
+
 </a>
+
+
+
+
 
 <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+
+
+
+
 
 
 <h2>:hammer_and_wrench: Ferramentas que eu uso no dia a dia</h2>
