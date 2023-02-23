@@ -1,7 +1,11 @@
-![image](https://user-images.githubusercontent.com/110608377/221030137-911fa0fb-3545-4520-a9de-5d093f6c7556.png)
+<div id="top"></div>
+<div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Denivaldo+Ferreira;Estudante+de+Analise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Denivaldo;,:,+,Analise e+Desenvolvimento+de+Sistemas;Desenvolvedor+brasileiro;+:);+%3C3;" alt="Meu nome é , Estudante de Analise e Desenvolvimento de Sistemas"></a>
+
+</div>
 
 
 
