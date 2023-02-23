@@ -11,8 +11,8 @@
 
 
 
-<a href="https://linkedin.com/in/denivaldo-bit">
-    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/denivaldo-bit&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+<a href="[https://linkedin.com/in/denivaldo-bit](https://www.linkedin.com/in/denivaldo-ferreira-de-vasconcelos-27b1b21b8/)">
+ <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/denivaldo-bit&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:denislive09@hotmail.com">
