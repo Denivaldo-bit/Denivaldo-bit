@@ -19,8 +19,12 @@
 </a>
 </a>
 <a href="mailto:denislive09@hotmail.com">
-    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=E-mail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px"
-         
+    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=E-mail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px">
+    
+   
+   
+     
+     
   </a>
     <div align="center">
   <div align="center">
@@ -32,14 +36,9 @@
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="c#" alt="Csharp" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /><code>
 
- <h2>:hammer_and_wrench: Ferramentas que eu uso no dia a dia</h2>
-<code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /></code>
-<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
-<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
-<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
-<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
-<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
 </br></br>
+</br></br>
+
 
 <img alt="animação da cobrinha nas contribuições do GitHub" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg">
 
