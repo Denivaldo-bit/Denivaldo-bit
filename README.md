@@ -69,3 +69,6 @@
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/denivaldo-bit/blob/main/assets/footer.png"></div>
+
+
+![image](https://user-images.githubusercontent.com/110608377/221246083-6a167d81-4141-4eb3-835a-33ad34caadfc.png)
