@@ -17,7 +17,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denivaldo-bit&layout=compact&langs_count=7&theme=transparent"/>
 </div> 
 
-
+</br></br>
+    
 <a href="https://linkedin.com/in/denivaldo-ferreira-de-vasconcelos">
     <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/Linkedn&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
