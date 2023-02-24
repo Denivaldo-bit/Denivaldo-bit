@@ -1,11 +1,15 @@
 <div id="top"></div>
 <div align="center" ><img alt="bem-vindo/a ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
 
+</br></br>
+
 <div align="center">
   <div align="center">
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Denivaldo;Desenvolvedor+brasileiro;+:);" alt="Meu nome é , Estudante de Analise e Desenvolvimento de Sistemas"></a>
+  
+  </br></br>
     
   <div align="center">
   <a href="https://github.com/Denivaldo-bit">
