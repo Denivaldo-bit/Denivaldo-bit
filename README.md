@@ -20,13 +20,20 @@
 </br></br>
     
 <a href="https://linkedin.com/in/denivaldo-ferreira-de-vasconcelos">
-    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=/Linkedn&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
 <a href="mailto:denislive09@hotmail.com">
-    <img alt="link para me mandar um email" src=https://www.linkedin.com/in/denivaldo-ferreira-de-vasconcelos-27b1b21b8/)" height="22px">
-    
-   
+    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=E-mail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
+</a>
+
+<h2>:hammer_and_wrench: Ferramentas que eu uso no dia a dia</h2>
+<code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
+<code><img title="VS Code" alt="visual studio code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+<code><img title="MS Windows" alt="microsoft windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></code>
+<code><img title="GitHub" alt="github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+<code><img title="Linux" alt="linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+</br></br>
    
      
      
@@ -37,7 +44,7 @@
 
   
   <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
-<code><img title="Python" alt="python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+<code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="c#" alt="Csharp" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /><code>
 <code><img title="Java" alt="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><code>
