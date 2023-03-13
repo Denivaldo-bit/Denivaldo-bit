@@ -19,7 +19,7 @@
 
 </br></br>
     
-<a href="(https://www.linkedin.com/in/denivaldo-ferreira-de-vasconcelos-27b1b21b8/)">
+<a href="https://linkedin.com/in/denivaldo-ferreira-de-vasconcelos">
     <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 </a>
