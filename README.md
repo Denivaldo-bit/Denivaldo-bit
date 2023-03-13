@@ -24,7 +24,7 @@
 </a>
 </a>
 <a href="mailto:denislive09@hotmail.com">
-    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=E-mail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px">
+    <img alt="link para me mandar um email" src=https://www.linkedin.com/in/denivaldo-ferreira-de-vasconcelos-27b1b21b8/)" height="22px">
     
    
    
