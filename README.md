@@ -47,9 +47,12 @@
   <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="JavaScript" alt="JavaScript" width="30px" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15224141/image/f5c28d568dfeb54dd1081874f6cbf151" /></code>
+<code><img title="Node.Js" alt="Node.js" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" /></code>
+<code><img title="React" alt="React" width="35px" src="https://cdn-icons-png.flaticon.com/512/10828/10828578.png" /></code>
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
-<code><img title="c#" alt="Csharp" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /><code>
-<code><img title="Java" alt="Java" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+<code><img title="c#" alt="Csharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /><code>
+<code><img title="Java" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
+
 
 </br></br>
 </br></br>
