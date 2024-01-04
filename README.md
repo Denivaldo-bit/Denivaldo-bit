@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img alt="bem-vindo ao meu perfil!" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/header2.png"></div>
+<div align="center" ><img alt="bem-vindo ao meu perfil!" width="100%" src="https://user-images.githubusercontent.com/110608377/221246083-6a167d81-4141-4eb3-835a-33ad34caadfc.png"></div>
 
 </br></br>
 
