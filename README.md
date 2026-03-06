@@ -6,26 +6,7 @@
 <div align="center">
   <div align="center">
 
-<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=500&lines=Eu+sou+o+Denivaldo;Desenvolvedor+brasileiro;+:);" alt="Meu nome é , Estudante de Analise e Desenvolvimento de Sistemas"></a>
-  
-  </br></br>
-    
-  <div align="center">
-  <a href="https://github.com/Denivaldo-bit">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=denivaldo-bit&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denivaldo-bit&layout=compact&langs_count=7&theme=transparent"/>
-</div> 
 
-</br></br>
-    
-<a href="https://www.linkedin.com/in/denivaldo-ferreira-de-vasconcelos-27b1b21b8/">
-    <img alt="link para o meu LinkedIn" src="https://img.shields.io/static/v1?label&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
-</a>
-</a>
-<a href="mailto:denislive09@hotmail.com">
-    <img alt="link para me mandar um email" src="https://img.shields.io/static/v1?label&message=E-mail&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
-</a>
 
 <h2>:hammer_and_wrench: Ferramentas que eu uso no dia a dia</h2>
 <code><img title="Mozilla Firefox" alt="mozilla firefox" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /></code>
@@ -42,8 +23,6 @@
     <div align="center">
   <div align="center">
 
-
-  
   <h2>:bulb: Linguagens & Frameworks que estou estudando</h2>
 <code><img title="Python" alt="python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img title="JavaScript" alt="JavaScript" width="30px" src="https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/15224141/image/f5c28d568dfeb54dd1081874f6cbf151" /></code>
@@ -52,30 +31,16 @@
 <code><img title="C" alt="linguagem c" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
 <code><img title="c#" alt="Csharp" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" /><code>
 <code><img title="Java" alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></code>
-
-
-
-  <div align="center" >
-<a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres" />
-</a>
-  <br />
-
-  </div>
   
 <a/>
-
-
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img alt="Obrigado pela visita!" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=24&center=true&vCenter=true&width=300&lines=Obrigado+pela+visita!" >
     </a>
 </div>
 
-<hr>
 
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=voltar+ao+topo&color=7E3ACE&style=flat&logo" alt="voltar ao topo" <p>
 <div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/denivaldo-bit/blob/main/assets/footer.png"></div>
 
 
